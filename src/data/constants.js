@@ -1,14 +1,15 @@
 export const Bio = {
-  name: "Mayur Nangre",
+  name: "Akash Kobal",
   roles: [
-    "Full Stack Developer",
-    "MERN Stack",
+    "PERN Stack Developer",
     "UI/UX Designer",
+    "Data Analyst",
     "Programmer",
+    "Full Stack Developer",
   ],
   description:
-    "I'm a skilled software developer with experience in C++, Python and JavaScript, and expertise in frameworks like React, Node.js, and Next.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
-  github: "https://github.com/MayurNangre",
+    "I'm a skilled software developer with experience in Java, Python and Iavascript, and expertise in frameworks like React, Node.js, and Next.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
+  github: "https://github.com/AkashKobal",
   resume:
     "https://drive.google.com/file/d/18R5FabzjBVmefk6Z0hsC2UB35zxVo-zi/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/mayur-nangre-279460207/",
