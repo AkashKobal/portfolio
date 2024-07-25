@@ -38,6 +38,13 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
           }
+          <Divider />
+          {toggle === 'chrome extension' ?
+            <ToggleButton active value="chrome extension" onClick={() => setToggle('chrome extension')}>CHROME EXTENSION'S</ToggleButton>
+            :
+            <ToggleButton value="chrome extension" onClick={() => setToggle('chrome extension')}>CHROME EXTENSION'S</ToggleButton>
+          }
+          
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
@@ -45,7 +52,7 @@ const Projects = ({openModal,setOpenModal}) => {
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
           {projects
-            .filter((item) => item.category == toggle)
+            .filter((item) => item.category === toggle)
             .map((project) => (
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}

@@ -8,7 +8,7 @@ export const Bio = {
     "Full Stack Developer",
   ],
   description:
-    "I'm a skilled software developer with experience in Java, Python and Iavascript, and expertise in frameworks like React, Node.js, and Next.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!",
+    "I am a dedicated and passionate software engineer with a B.Tech in Computer Science and Engineering from Presidency University, Bangalore. With a strong foundation in both front-end and back-end development, I bring a comprehensive skill set and a commitment to excellence in all my projects.",
   github: "https://github.com/AkashKobal",
   resume:
     "https://drive.google.com/file/d/18R5FabzjBVmefk6Z0hsC2UB35zxVo-zi/view?usp=drive_link",
@@ -32,11 +32,11 @@ export const skills = [
       //   image:
       //     "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       // },
-      {
-        name: "Next Js",
-        image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      },
+      // {
+      //   name: "Next Js",
+      //   image:
+      //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      // },
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -59,7 +59,12 @@ export const skills = [
       {
         name: "XML",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+          "https://img.icons8.com/?size=100&id=87809&format=png&color=000000",
+      },
+      {
+        name: "EJS",
+        image:
+          "https://img.icons8.com/?size=100&id=Pxe6MGswB8pX&format=png&color=000000",
       },
       {
         name: "Material UI",
@@ -166,12 +171,12 @@ export const skills = [
     skills:[{
         name: "REST API",
         image:
-          "https://www.vectorlogo.zone/logos/rest-assured/rest-assured-icon.svg",
+          "https://img.icons8.com/?size=100&id=50196&format=png&color=000000",
       },
-      // {
-      //   name: "Graph Ql",
-      //   image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
-      // },
+      {
+        name: "Graph Ql",
+        image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
+      },
       // {
       //   name: "Firebase",
       //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
@@ -382,18 +387,18 @@ export const projects = [
     github: "https://wainsy.com/",
     webapp: "https://wainsy.com/",
   },
-  {
-    id: 0,
-    title: "ZOOM Clone",
-    date: "Nov 2023 - jan 2024",
-    description:
-      "I developed a Zoom-like application using Next.js, incorporating all the essential features of the Zoom meeting platform. This project showcases my proficiency in frontend development, particularly with Next.js, a popular React framework. The application replicates key functionalities of Zoom, enabling users to host and join virtual meetings seamlessly. It demonstrates my ability to design and implement complex web applications, showcasing features such as video conferencing, screen sharing, chat functionality, and more.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "Next Js", "Redux", "JavaScript", "Tailwind CSS"],
-    category: "web app",
-    github: "https://github.com/MayurNangre/Zoom_clone",
-    webapp: "https://github.com/MayurNangre/Zoom_clone",
+  // {
+  //   id: 0,
+  //   title: "ZOOM Clone",
+  //   date: "Nov 2023 - jan 2024",
+  //   description:
+  //     "I developed a Zoom-like application using Next.js, incorporating all the essential features of the Zoom meeting platform. This project showcases my proficiency in frontend development, particularly with Next.js, a popular React framework. The application replicates key functionalities of Zoom, enabling users to host and join virtual meetings seamlessly. It demonstrates my ability to design and implement complex web applications, showcasing features such as video conferencing, screen sharing, chat functionality, and more.",
+  //   image:
+  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+  //   tags: ["React Js", "Next Js", "Redux", "JavaScript", "Tailwind CSS"],
+  //   category: "web app",
+  //   github: "https://github.com/MayurNangre/Zoom_clone",
+  //   webapp: "https://github.com/MayurNangre/Zoom_clone",
     // member: [
     //   {
     //     name: "Mayur Nangre",
@@ -408,6 +413,39 @@ export const projects = [
     //     github: "https://github.com/upasana0710",
     //   },
     // ],
+  // },
+  {
+    id: 2,
+    title: "Travel Tracker",
+    date: "July 2024 - July 2024",
+    description:
+      "This web application allows users to track the countries they have visited. Users can add country names, and the visited countries will be visualized on a map using Canvas. The app is built using HTML, CSS, JavaScript, EJS for templating, and PostgreSQL for database management.",
+    image:
+      "https://res.cloudinary.com/deizvfuha/image/upload/v1721913944/my%20images/hrcfxnua3uv41wlqxvsu.png",
+    tags: [
+      "JavaScript",
+      " PostgreSQL",
+      "Node Js",
+      "HTML",
+      "EJS",
+      "CSS"
+    ],
+    category: "web app",
+    github: "https://github.com/AkashKobal/travel-tracker",
+    webapp: "https://github.com/AkashKobal/travel-tracker",
+  },
+  {
+    id: 10,
+    title: "Drum Kit",
+    date: "July 2024 - July 2024",
+    description:
+      "This project contains an interactive Drum Kit web application that plays instrument sounds when users click on keyboard keys or mouse buttons. Built with HTML, CSS, and JavaScript, it provides a fun and engaging way to create music.",
+    image:
+      "https://res.cloudinary.com/deizvfuha/image/upload/v1721914811/my%20images/dwp0m2kbhp2hf5eebxgc.png",
+    tags: ["JavaScript", "Bootstrap", "HTML", "CSS"],
+    category: "web app",
+    github: "https://github.com/AkashKobal/drum-kit",
+    webapp: "https://akashkobal.github.io/drum-kit/",
   },
   {
     id: 1,
@@ -427,18 +465,18 @@ export const projects = [
     github: "https://github.com/MayurNangre/tic-tac-toe",
     webapp: "https://mayurnangre.github.io/tic-tac-toe/",
   },
-  {
-    id: 2,
-    title: "Youtube Comment Analyzer",
-    date: "Jan 2024 - Mar 2024",
-    description:
-      "The YouTube Comment Analyzer project is a sentiment analysis tool designed to evaluate comments on YouTube videos. Leveraging natural language processing techniques, it classifies comments as either positive or negative, providing valuable insights into viewer sentiment. By analyzing the tone and content of comments, this tool helps creators and marketers understand audience reactions and gauge the overall reception of their videos.",
-    image:
-      "https://res.cloudinary.com/drkru3jv8/image/upload/v1712407467/Portfolio_Web/y1_syzpsf.png",
-    tags: ["Python", "Flask", "Natural Language Processing (NLP)", "Sentiment Analysis"],
-    category: "machine learning",
-    github: "https://github.com/MayurNangre/Youtube_Comment_Analyzer",
-    webapp: "https://github.com/MayurNangre/Youtube_Comment_Analyzer",
+  // {
+  //   id: 2,
+  //   title: "Youtube Comment Analyzer",
+  //   date: "Jan 2024 - Mar 2024",
+  //   description:
+  //     "The YouTube Comment Analyzer project is a sentiment analysis tool designed to evaluate comments on YouTube videos. Leveraging natural language processing techniques, it classifies comments as either positive or negative, providing valuable insights into viewer sentiment. By analyzing the tone and content of comments, this tool helps creators and marketers understand audience reactions and gauge the overall reception of their videos.",
+  //   image:
+  //     "https://res.cloudinary.com/drkru3jv8/image/upload/v1712407467/Portfolio_Web/y1_syzpsf.png",
+  //   tags: ["Python", "Flask", "Natural Language Processing (NLP)", "Sentiment Analysis"],
+  //   category: "machine learning",
+  //   github: "https://github.com/MayurNangre/Youtube_Comment_Analyzer",
+  //   webapp: "https://github.com/MayurNangre/Youtube_Comment_Analyzer",
     // member: [
     //   {
     //     name: "Mayur Nangre",
@@ -453,46 +491,34 @@ export const projects = [
     //     github: "https://github.com/upasana0710",
     //   },
     // ],
-  },
-  {
-    id: 3,
-    title: "Todo Web App",
-    date: "Mar 2023 - Mar 2023",
-    description:
-      "The Todo List app built in React.js provides a simple yet efficient solution for organizing tasks and managing daily activities. Users can easily add, update, and delete tasks, ensuring a streamlined workflow and improved productivity. With intuitive features like task prioritization, due dates, and task categorization, users can effectively manage their to-do lists and stay on top of their responsibilities. The app offers a clean and user-friendly interface, making task management a breeze for individuals seeking an organized approach to their daily tasks.",
-    image:
-      "https://res.cloudinary.com/drkru3jv8/image/upload/v1712407529/Portfolio_Web/todo_app_ts18oi.png",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "web app",
-    github: "https://github.com/MayurNangre/Keeper-App",
-    webapp: "https://mayurnangre.github.io/Keeper-App/",
-  },
-  {
-    id: 10,
-    title: "Music Player with DrumKit",
-    date: "Sep 2023 - Oct 2023",
-    description:
-      "A music player with Drum Kit project using HTML, CSS, and JavaScript is a web application that allows users to play music files and a Drum Kit. The project typically includes a user interface where the user can organize their music library, as well as play and control music playback. User can also play a drum kit which is a percussion instrument with a set of drums and cymbals. A kit with 7 different sounds allows for a variety of rhythms and beats.",
-    image:
-      "https://res.cloudinary.com/drkru3jv8/image/upload/v1712407601/Portfolio_Web/Musicplayer4_haersj.png",
-    tags: ["ReactJs", "JavaScript", "Bootstrap", "HTML", "CSS"],
-    category: "android app",
-    github: "https://github.com/MayurNangre/MusicPlayerwithDrumKit",
-    webapp: "https://mayurnangre.github.io/MusicPlayerwithDrumKit/",
-  },
-  {
-    id: 6,
-    title: "Bloging Web App",
-    date: "Dec 2023 - Jan 2024",
-    description:
-      "The blogging website project aims to create a user-friendly platform where individuals can easily publish and share their written content with an online audience. Key features include user authentication for account management, a robust content management system with post creation and editing capabilities.",
-    image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "web app",
-    github: "https://github.com/MayurNangre/Blog_Website",
-    webapp: "https://github.com/MayurNangre/Blog_Website",
-  },
+  // },
+  // {
+  //   id: 3,
+  //   title: "Todo Web App",
+  //   date: "Mar 2023 - Mar 2023",
+  //   description:
+  //     "The Todo List app built in React.js provides a simple yet efficient solution for organizing tasks and managing daily activities. Users can easily add, update, and delete tasks, ensuring a streamlined workflow and improved productivity. With intuitive features like task prioritization, due dates, and task categorization, users can effectively manage their to-do lists and stay on top of their responsibilities. The app offers a clean and user-friendly interface, making task management a breeze for individuals seeking an organized approach to their daily tasks.",
+  //   image:
+  //     "https://res.cloudinary.com/drkru3jv8/image/upload/v1712407529/Portfolio_Web/todo_app_ts18oi.png",
+  //   tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
+  //   category: "web app",
+  //   github: "https://github.com/MayurNangre/Keeper-App",
+  //   webapp: "https://mayurnangre.github.io/Keeper-App/",
+  // },
+
+  // {
+  //   id: 6,
+  //   title: "Bloging Web App",
+  //   date: "Dec 2023 - Jan 2024",
+  //   description:
+  //     "The blogging website project aims to create a user-friendly platform where individuals can easily publish and share their written content with an online audience. Key features include user authentication for account management, a robust content management system with post creation and editing capabilities.",
+  //   image:
+  //     "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
+  //   tags: ["React Js", "API", "Axios", "Node JS"],
+  //   category: "web app",
+  //   github: "https://github.com/MayurNangre/Blog_Website",
+  //   webapp: "https://github.com/MayurNangre/Blog_Website",
+  // },
   // {
   //   id: 4,
   //   title: "Whatsapp Clone",
@@ -557,7 +583,59 @@ export const projects = [
   //   category: "machine learning",
   //   github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   //   webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+// },
+  {
+    id: 8,
+    title: "Music Player",
+    date: "Jan 2023",
+    description:
+      "A music player is an application designed to play audio files on a device. Created using XML for the UI and Java for functionality in Android Studio, it enables users to browse and play music. Key features include play, pause, stop, skip, shuffle, and repeat options. Users can create playlists and view song information. The MediaPlayer class in Java is used to handle audio playback, providing a seamless music listening experience.",
+    image:
+      "https://res.cloudinary.com/deizvfuha/image/upload/v1721921219/my%20images/jyzbjqnffdvsrrtpmgx9.png",
+    tags: ["XML", "JAVA", "Android Studio"],
+    category: "android app",
+    github: "https://github.com/AkashKobal/android-development/tree/MAD/15.%20MediaPlayer",
+    webapp: "https://github.com/AkashKobal/android-development/tree/MAD/15.%20MediaPlayer",
+  },
+  // {
+  //   id: 9,
+  //   title: "Music Player",
+  //   date: "Feb 2023",
+  //   description:
+  //     "A music player is an application designed to play audio files on a device. Created using XML for the UI and Java for functionality in Android Studio, it enables users to browse and play music. Key features include play, pause, stop, skip, shuffle, and repeat options. Users can create playlists and view song information. The MediaPlayer class in Java is used to handle audio playback, providing a seamless music listening experience.",
+  //   image:
+  //     "https://res.cloudinary.com/deizvfuha/image/upload/v1721921219/my%20images/jyzbjqnffdvsrrtpmgx9.png",
+  //   tags: ["XML", "JAVA", "Android Studio"],
+  //   category: "chrome extension",
+  //   github: "https://github.com/AkashKobal/android-development/tree/MAD/15.%20MediaPlayer",
+  //   webapp: "https://github.com/AkashKobal/android-development/tree/MAD/15.%20MediaPlayer",
   // },
+  {
+    id: 101,
+    title: "Weather app",
+    date: "Jan 2023",
+    description:
+      "I developed a weather app utilizing Android Studio, leveraging Java for the core functionality and XML for the user interface design. By integrating a Weather API, the app fetches and displays real-time weather data based on user input. This project involved creating a seamless UI, handling API requests, and parsing JSON data to present accurate weather conditions and forecasts. The development process enhanced my skills in Android app development, API integration, and user interface design, resulting in a functional and user-friendly weather application.",
+    image:
+      "https://res.cloudinary.com/deizvfuha/image/upload/v1721926194/maxresdefault_fn73av.jpg",
+    tags: ["XML", "JAVA","Weather API", "Android Studio"],
+    category: "android app",
+    github: "https://github.com/AkashKobal/android-development/tree/MAD/25.%20Weather_App",
+    webapp: "https://github.com/AkashKobal/android-development/tree/MAD/25.%20Weather_App",
+  },
+    {
+    id: 102,
+    title: "Potato Disease Classification Using CNN",
+    date: "NOV 2023",
+    description:
+      "I developed a web app for potato disease classification using TensorFlow, a Convolutional Neural Network (CNN), FastAPI, and React.js. The app identifies diseases like Early Blight and Late Blight from potato plant images. TensorFlow and CNN handle image processing and disease prediction. FastAPI serves as the backend, managing API requests and responses. React.js powers the frontend, providing a responsive and user-friendly interface. This project enhances agricultural diagnostics, enabling farmers to quickly identify and treat diseases, thus improving crop yield and quality.",
+    image:
+      "https://res.cloudinary.com/deizvfuha/image/upload/v1721927447/Screenshot_2024-07-25_223937_hluewc.png",
+    tags: ["Tensorflow", "CNN","Fast API", "React js"],
+    category: "machine learning",
+    github: "https://github.com/AkashKobal/potato-disease-classification",
+    webapp: "https://github.com/AkashKobal/potato-disease-classification",
+  },
 ];
 
 export const TimeLineData = [
