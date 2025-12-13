@@ -2,7 +2,6 @@ import React from 'react'
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import { DiCssdeck } from 'react-icons/di';
 import { FaBars, FaGithub, FaTimes, FaUser, FaCode, FaBriefcase, FaGraduationCap, FaLinkedin, FaAutoprefixer } from 'react-icons/fa';
 import { Bio } from '../../data/constants';
 import _default from '../../themes/default';

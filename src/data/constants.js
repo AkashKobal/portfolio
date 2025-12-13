@@ -15,7 +15,6 @@ export const Bio = {
     "https://drive.google.com/file/d/18irSdGQvByoewK16Y75c-OxVm4b2_-gu/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/akash-kobal/",
   // twitter: "https://twitter.com/",
-  // insta: "https://www.instagram.com/akash_kobal__",
   // facebook: "https://www.facebook.com/AkashKobal05",
 };
 

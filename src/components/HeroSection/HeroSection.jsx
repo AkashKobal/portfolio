@@ -4,7 +4,6 @@ import HeroImg from '../../images/HeroImage.jpg'
 import { Bio } from '../../data/constants';
 import { motion } from 'framer-motion';
 import {
-    Github, Linkedin, Twitter, Instagram, Facebook, Mail, ExternalLink,
     Code, Braces, Terminal, GitBranch, Database, Palette, Sparkles, Zap,
     Cpu, Layers, Smartphone, Globe, Cloud, Lightbulb, Rocket,
     ChevronDown
@@ -155,112 +154,6 @@ const RoleTag = styled(motion.div)`
     box-shadow: 0 4px 15px rgba(0,0,0,0.05);
 `;
 
-const CTAContainer = styled(motion.div)`
-    display: flex;
-    gap: 20px;
-    margin-bottom: 40px;
-    flex-wrap: wrap;
-    
-    @media (max-width: 960px) {
-        justify-content: center;
-    }
-`;
-
-const CTAButton = styled(motion.a)`
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 14px 28px;
-    border-radius: 50px;
-    font-weight: 600;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-    
-    &::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: -100%;
-        width: 100%;
-        height: 100%;
-        background: rgba(255,255,255,0.2);
-        transition: left 0.5s ease;
-        z-index: 0;
-    }
-    
-    &:hover::before {
-        left: 100%;
-    }
-    
-    span {
-        position: relative;
-        z-index: 1;
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    }
-`;
-
-const PrimaryButton = styled(CTAButton)`
-    background: linear-gradient(135deg, ${({ theme }) => theme.primary} 0%, ${({ theme }) => theme.secondary} 100%);
-    color: white;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-`;
-
-const SecondaryButton = styled(CTAButton)`
-    background: transparent;
-    color: ${({ theme }) => theme.text_primary};
-    border: 2px solid ${({ theme }) => theme.primary};
-`;
-
-const SocialMediaContainer = styled(motion.div)`
-    display: flex;
-    gap: 15px;
-    
-    @media (max-width: 960px) {
-        justify-content: center;
-    }
-`;
-
-const SocialIcon = styled(motion.a)`
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    background: rgba(0,0,0,0.05);
-    color: ${({ theme }) => theme.text_primary};
-    transition: all 0.3s ease;
-    position: relative;
-    
-    &::after {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        border-radius: 50%;
-        border: 2px solid ${({ theme }) => theme.primary};
-        opacity: 0;
-        transform: scale(0.8);
-        transition: all 0.3s ease;
-    }
-    
-    &:hover {
-        background: ${({ theme }) => theme.primary};
-        color: white;
-        transform: translateY(-5px);
-        
-        &::after {
-            opacity: 1;
-            transform: scale(1.1);
-        }
-    }
-`;
 
 const ProfileWrapper = styled(motion.div)`
     position: relative;
