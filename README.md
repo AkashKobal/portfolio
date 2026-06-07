@@ -1,5 +1,5 @@
 # Portfolio 
 
-## [Click here](https://akashkobal.github.io/portfolio/)
+## [Click here](http://www.akashkobal.com/)
  
  
